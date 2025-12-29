@@ -1,0 +1,98 @@
+{
+  "technical_skills": {
+    "programming_languages": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "JavaScript",
+      "TypeScript",
+      "R"
+    ],
+    "web_development": [
+      "HTML",
+      "CSS",
+      "React",
+      "Node.js",
+      "Express",
+      "FastAPI",
+      "Django",
+      "Flask"
+    ],
+    "databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "SQLite",
+      "Oracle",
+      "SQL Server"
+    ],
+    "data_science": [
+      "Data Analysis",
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics",
+      "NLP",
+      "Computer Vision"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Linux"
+    ]
+  },
+  "soft_skills": [
+    "Communication",
+    "Problem Solving",
+    "Critical Thinking",
+    "Teamwork",
+    "Leadership",
+    "Time Management",
+    "Adaptability"
+  ],
+  "roles": {
+    "Data Analyst": [
+      "Python",
+      "SQL",
+      "Data Analysis",
+      "Statistics",
+      "Excel",
+      "Power BI",
+      "Tableau"
+    ],
+    "Data Scientist": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics",
+      "SQL",
+      "NLP"
+    ],
+    "Software Engineer": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "Data Structures",
+      "Algorithms",
+      "System Design"
+    ],
+    "Frontend Developer": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ],
+    "Backend Developer": [
+      "Python",
+      "Node.js",
+      "FastAPI",
+      "Databases",
+      "API Design"
+    ]
+  }
+}
